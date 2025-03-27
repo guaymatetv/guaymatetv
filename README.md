@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @guaymatetv https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8 
+- 👋 Hi, I’m guaymate tv atulizar el canal
+ https://ssh101stream.ssh101.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+GUAYMATE TV  https://ssh101.bozztv.com/ssh101/guaymatetv/chunks.m3u8
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,4 +11,6 @@
 <!---
 guaymatetv/guaymatetv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8 
+--->guaymate tv atulizar el canal
+ https://ssh101stream.ssh101.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+GUAYMATE TV  https://ssh101.bozztv.com/ssh101/guaymatetv/chunks.m3u8
